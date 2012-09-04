@@ -1,8 +1,9 @@
-mars PHP Framework (Documents only)
-===================================
+mars PHP Framework
+==================
 What's mars?
 ------------
 mars is a Web application framework that has been made in PHP.
+Currently I have only published documents.
 
 Reference
 ---------
