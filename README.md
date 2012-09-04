@@ -11,7 +11,7 @@ Reference
 * [API](http://api.dtx-mars.com/)
 
 Misc
-====
+----
 * [mars 1.9 overview](http://dtx.co.jp/wp-content/uploads/2012/08/mars_1.9-overview.pdf)
 * [mars 1.9 mixi library for programmers summary](http://dtx.co.jp/wp-content/uploads/2012/08/mars_1.9-mixi_overview.pdf)
 
