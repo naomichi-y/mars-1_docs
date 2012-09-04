@@ -10,6 +10,9 @@ Reference
 * [Documents](http://manual.dtx-mars.com/)
 * [API](http://api.dtx-mars.com/)
 
+* [mars 1.9 overview](http://dtx.co.jp/wp-content/uploads/2012/08/mars_1.9-overview.pdf)
+* [mars 1.9 mixi library for programmers summary](http://dtx.co.jp/wp-content/uploads/2012/08/mars_1.9-mixi_overview.pdf)
+
 Licence
 -------
 DT Corporate Licence
